@@ -1,7 +1,9 @@
 ## Terraform - S3 Example
 
 
-Aquí tienes un ejemplo simple de cómo podrían verse los archivos backend.tf, provider.tf, variables.tf y main.tf para crear un Bucket S3 en AWS.
+Bucket AWS S3   
+
+backend.tf, provider.tf, variables.tf y main.tf.
 
 1. backend.tf (Configura el almacenamiento del estado)
 
