@@ -12,3 +12,11 @@ Aquí tienes un ejemplo simple de cómo podrían verse los archivos backend.tf, 
 4. main.tf (Define el recurso principal)
 
 5. terraform.tfvars (Proporciona valores para las variables)
+
+
+```
+Terraform init
+Terraform plan
+Terraform apply
+Terraform destroy
+```
