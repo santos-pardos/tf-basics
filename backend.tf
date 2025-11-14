@@ -4,6 +4,5 @@ terraform {
     key            = "dev/servidor_web/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
-    dynamodb_table = "terraform-lock-table" # Usado para el bloqueo de estado (state locking)
   }
 }
